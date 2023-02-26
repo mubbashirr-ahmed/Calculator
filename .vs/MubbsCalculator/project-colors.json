@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f80200d-7bee-40f1-9cc1-5ff1822ffb1e": {
+      "ProjectGuid": "4f80200d-7bee-40f1-9cc1-5ff1822ffb1e",
+      "DisplayName": "MubbsCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

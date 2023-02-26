@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\bin\Debug\MubbsCalculator.exe.config
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\bin\Debug\MubbsCalculator.exe
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\bin\Debug\MubbsCalculator.pdb
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.Mubbashir.resources
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.Properties.Resources.resources
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.exe
+C:\Users\Hp\source\repos\MubbsCalculator\MubbsCalculator\obj\Debug\MubbsCalculator.pdb
